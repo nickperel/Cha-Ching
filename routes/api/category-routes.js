@@ -8,7 +8,7 @@ router.get('/', (req, res) => {
   Category.findAll()
   .then((dbCategories) => {
     res.json(dbCategories);
-  })
+  });
   // be sure to include its associated Products
 });
 

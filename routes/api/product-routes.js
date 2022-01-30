@@ -9,7 +9,7 @@ router.get('/', (req, res) => {
   Product.findAll()
   .then((dbProducts) => {
     res.json(dbProducts);
-  })
+  });
   // be sure to include its associated Category and Tag data
 });
 
