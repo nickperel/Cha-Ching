@@ -12,6 +12,12 @@
   * [Contributing](#contributing)
   * [License Info](#license-info)
 
+  ## Walkthrough Video
+  
+  * Part 1: https://watch.screencastify.com/v/RIAMXhczV4dUSoYdiF61
+
+  * Part 2: https://watch.screencastify.com/v/U5pbnoasjmJHLVsm8gW0
+  
   ### Installation
   
   * You must have MySQL2, Sequelize, and the dotenv package installed to get the app up and running.
